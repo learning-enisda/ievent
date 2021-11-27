@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/wp-admin', function () {
     return view('admin');
 });
+Route::get('/home', function () {
+    return view('users');
+});
