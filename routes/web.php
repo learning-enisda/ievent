@@ -27,8 +27,17 @@ Route::get('/post', function () {
     return view('layout.post_users');
 });
 
+// ini adalah rute untuk tampilan admin
 Route::get('/adminHome', function () {
     return view('admin');
+});
+
+Route::get('adminForm', function () {
+    return view('layout.form_admin');
+});
+
+Route::get('adminTable', function () {
+    return view('layout.table_admin');
 });
 
 Route::get('/dashboard', function () {
