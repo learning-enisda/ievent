@@ -2,7 +2,6 @@
 
   <section id="main">
     <div class="main">
-      card
     </div>
   </section>
 

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Pages / Login - NiceAdmin Bootstrap Template</title>
+  <title>Login IEvents</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -86,7 +86,7 @@
                       </div>
                     </div>
                     <div class="col-12">
-                      <button class="btn btn-primary w-100" type="submit">Login</button>
+                      <a href="home" class="btn btn-primary w-100">Login</a>
                     </div>
                     <div class="col-12">
                       <p class="small mb-0">Belum memiliki akun? <a href="/register">Buat akun</a></p>

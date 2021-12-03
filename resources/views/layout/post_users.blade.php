@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - NewBiz Bootstrap Template</title>
+  <title>Post | IEvents</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -65,21 +65,10 @@
 
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
                   <img src="users/img/portfolio/portfolio-details-1.jpg" alt="">
                 </div>
-
-                <div class="swiper-slide">
-                  <img src="users/img/portfolio/portfolio-details-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="users/img/portfolio/portfolio-details-3.jpg" alt="">
-                </div>
-
-              </div>
               <div class="swiper-pagination"></div>
             </div>
           </div>
@@ -89,10 +78,13 @@
             <div class="portfolio-info">
               <h3>Informasi Event</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Penyelenggara</strong>: ANU Company</li>
+                <li><strong>Category</strong>: Webinar PKM</li>
+                <li><strong>Penyelenggara</strong>: PKM ID</li>
                 <li><strong>Waktu Kegiatan</strong>: 2021-11-01 08.00 WITA</li>
-                <li><strong>Lokasi</strong>: <a href="meet.google.com">Google Meet</a></li>
+                <li><strong>Lokasi</strong>: <a href="https://zoom.us/">Zoom Meeting</a></li>
+                <a href="#">
+                <button type="button" class="btn btn-primary rounded-pill">Register</button>
+                </a>
               </ul>
             </div>
           </div>
@@ -106,34 +98,27 @@
 
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="users/img/portfolio/portfolio-details-1.jpg" alt="">
-                </div>
 
                 <div class="swiper-slide">
                   <img src="users/img/portfolio/portfolio-details-2.jpg" alt="">
                 </div>
 
-                <div class="swiper-slide">
-                  <img src="users/img/portfolio/portfolio-details-3.jpg" alt="">
-                </div>
-
-              </div>
               <div class="swiper-pagination"></div>
             </div>
           </div>
 
           <div class="col-lg-4">
-            <img src="users/img/portfolio/portfolio-details-3.jpg" alt="" class="img-thumbnail">
+            <img src="users/img/portfolio/portfolio-details-2.jpg" alt="" class="img-thumbnail">
             <div class="portfolio-info">
               <h3>Informasi Event</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Penyelenggara</strong>: ANU Company</li>
+                <li><strong>Category</strong>: Workshop Social Media Marketing</li>
+                <li><strong>Penyelenggara</strong>: Live At Telkomsel</li>
                 <li><strong>Waktu Kegiatan</strong>: 2021-11-01 08.00 WITA</li>
-                <li><strong>Lokasi</strong>: <a href="meet.google.com">Google Meet</a></li>
+                <li><strong>Lokasi</strong>: <a href="https://meet.google.com">Google Meet</a></li>
+                <a href="#">
+                <button type="button" class="btn btn-primary rounded-pill">Register</button>
+                </a>
               </ul>
             </div>
           </div>

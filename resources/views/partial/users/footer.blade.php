@@ -12,8 +12,7 @@
             <h4>Useful Links</h4>
             <ul>
               <li><a href="/home">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
+              <li><a href="/post">Postingan</a></li>
             </ul>
           </div>
 
